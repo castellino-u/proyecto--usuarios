@@ -1,0 +1,3 @@
+tsx es cuando queremos devolver etiquetas, mezclar código html, js en react
+
+ts cuando queremos usar typescript para definir las cosas, definir las funciones, interfaces, variables, definir el tipo de dato 
